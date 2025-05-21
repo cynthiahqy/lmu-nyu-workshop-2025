@@ -1,6 +1,6 @@
 # xmap demo
 
-The `xmap` package implements a new data structure for mapping data between statistical classifications. I am still figuring out how to build out smooth and user-friendly workflows for transforming and harmonising data using this data structure. In this workshop, I want to explore the how best to support the import and/or specification of mappings between classifications, and the potential of using LLMs in this task.
+The [`xmap` package](https://cynthiahqy.github.io/xmap/index.html) implements a new data structure for mapping data between statistical classifications. I am still figuring out how to build out smooth and user-friendly workflows for transforming and harmonising data using this data structure. In this workshop, I want to explore the how best to support the import and/or specification of mappings between classifications, and the potential of using LLMs in this task.
 
 ## Set up
 
