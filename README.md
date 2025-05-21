@@ -1,2 +1,9 @@
-# lmu-nyu-workshop-2025
-materials for "Making Data Work: Tools for Better Statistical Practice" in Munich, June 05 and 06
+# xmap demo
+
+## Set up
+
+Install the development version of the package
+
+```{r}
+remotes::install_github("cynthiahqy/xmap")
+```
