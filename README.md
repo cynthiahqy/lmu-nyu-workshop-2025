@@ -12,7 +12,7 @@ Install the development version of the package in a recent version of R (>4.1): 
 
 You need some access to an LLM. Ideally via ellmer + API key (see https://ellmer.tidyverse.org for setup instructions), but using web-based chat (e.g. chatGPT.com, claude.ai) is also fine.
 
-### BYO Example Task and/or Data
+### BYO Example Task and/or Data (OPTIONAL)
 
 Bring a small sample of data from your own category harmonisation task. This will likely be two classifcations that you need to map between, and a subset of the data you want to merge/integrate -- e.g. hierarchical adminstrative areas [(simple example)](https://cynthiahqy.github.io/xmap/articles/xmap.html#example-country-state-mappings), standard occupation or industry codes
 
