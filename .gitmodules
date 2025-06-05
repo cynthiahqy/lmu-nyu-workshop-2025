@@ -1,0 +1,6 @@
+[submodule "talk_LMU-20250604"]
+	path = talk_LMU-20250604
+	url = https://github.com/cynthiahqy/talk_LMU-20250604
+[submodule "example_narrow-occpns"]
+	path = example_narrow-occpns
+	url = https://github.com/cynthiahqy/example_narrow-occpns
